@@ -1,0 +1,4 @@
+# Created at 2019-05-22T14:47:26.925
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Venkat\CRMTalendRepo\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

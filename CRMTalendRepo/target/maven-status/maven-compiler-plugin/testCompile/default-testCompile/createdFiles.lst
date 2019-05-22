@@ -1,0 +1,3 @@
+org\talend\components\vtigercrm\source\InputMapperTest.class
+org\talend\components\vtigercrm\processor\OutputProcessorTest.class
+org\talend\components\vtigercrm\source\ConnectionMapperTest.class
